@@ -10,8 +10,7 @@ git clone https://github.com/FuLiHai/phpToSwagger.git
 # 执行
 1. cd phpToSwagger
 2. php -S localhost:8000
-
-访问：http://localhost:8000/phpToSwagger.php
+3. 访问：http://localhost:8000/phpToSwagger.php
 
 # 注意
   1. PHP代码块必须是一个数组
