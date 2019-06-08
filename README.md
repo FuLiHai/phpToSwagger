@@ -37,8 +37,8 @@ git clone https://github.com/FuLiHai/phpToSwagger.git
 ],
 'gallery'    => [                           //相册     数组/列表
     [
-        'gallery.big'   => 'https://img13.360buyimg.com/n7/jfs/t1/41729/34/1969/283035/5cc80ed4Eab41eae2/dc784f471bc44ce2.jpg',//大图片地址
-        'gallery.small' => 'https://img13.360buyimg.com/n5/jfs/t1/41729/34/1969/283035/5cc80ed4Eab41eae2/dc784f471bc44ce2.jpg',//小图片地址
+        'big'   => 'https://img13.360buyimg.com/n7/jfs/t1/41729/34/1969/283035/5cc80ed4Eab41eae2/dc784f471bc44ce2.jpg',//大图片地址
+        'small' => 'https://img13.360buyimg.com/n5/jfs/t1/41729/34/1969/283035/5cc80ed4Eab41eae2/dc784f471bc44ce2.jpg',//小图片地址
     ],
 ],
 'category' => [                           //分类  多层级嵌套
