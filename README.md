@@ -8,8 +8,8 @@ PHP 代码 转 Swagger Schema 文档
 git clone https://github.com/FuLiHai/phpToSwagger.git
 
 # 执行
-cd phpToSwagger
-php -S localhost:8000
+1. cd phpToSwagger
+2. php -S localhost:8000
 
 访问：http://localhost:8000/phpToSwagger.php
 
