@@ -13,7 +13,7 @@ git clone https://github.com/FuLiHai/phpToSwagger.git
 3. 访问：http://localhost:8000/phpToSwagger.php
 
 # 注意
-1. PHP代码块必须是一个数组
+1. PHP代码块必须是一个数组,接口返回结构
 2. 每行代码必须有一个有对字段的描述,使用注释符"//",eg:'spu_id'     => 520,//商品Spu编码
 3. 每个字段必须有一个默认值，以此默认值，判断此字段类型
 
